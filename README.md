@@ -1,5 +1,5 @@
 # rok-calculator
-Rok Calculator ToS
+Rok Calculator ToS & Policy
 
 Terms of Service
 
