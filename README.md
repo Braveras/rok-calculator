@@ -1,20 +1,23 @@
-# rok-calculator
-Rok Calculator ToS & Policy
+# Terms of Service for Rok Calculator
 
-Terms of Service
+By using Rok Calculator ("the bot"), you agree to be bound by the following terms and conditions ("ToS"). If you do not agree to the ToS, do not use the bot.
 
-By inviting ROK Calculator to your discord server, you agree that you have read, understood, and accepted these terms. You are also responsible for informing the members in your discord server about these terms. If you do not agree with any of these terms, you are prohibited from using or adding any version of ROK Calculator to your server.
+The bot is provided to you free of charge. You are not required to pay to use the bot.
 
-Disclaimer
-You are strictly prohibited to use ROK Calculator against the ToS of discord or for illegal purposes. We are doing our best to prevent these activities, while trying to provide the best user experience as possible. If you find people or communities using ROK Calculator against the ToS of discord or even for illegal activities, please send us an email to contact (at) @Braveras.
+The bot is intended for use by players of the Rise of Kingdoms game. It provides calculator-like commands to help players calculate the amount of items they have stored in their inventory, as well as more complex commands to calculate resources transferring taxes or hero skill requirements. The bot may also display the calculation results to other users or privately to you.
 
-Proprietary Rights
-We (ROK Calculator) own and retain all rights for public available data (including but not limited to templates). We grant you the permission to use this available data for your own needs, but strictly disallow any commercial use. You therefore shall not sell, license or otherwise commercialize the data except if the permission was expressly granted to you.
+The bot may collect your Discord User ID and username for the purpose of applying per-user preferences. The bot will not collect any other personal information from you.
 
-Availability
-ROK Calculator is provided as-is. There are no guarantees that it will be available in the future, and its purpose or availability may be changed at any time.
-User related data including backups may be deleted at any time.
+The bot does not have any paid features.
 
-User related data including backups is non-transferable between discord accounts.
+The bot is not affiliated with or endorsed by the Rise of Kingdoms game or any of its developers or publishers.
 
-Access to all or specific features of ROK Calculator may be revoked, for all or a specific user, at any time.
+## Privacy and Data Deletion:
+
+The bot does not collect any personal information beyond your Discord User ID and username.
+If you would like to request that your data be deleted from the bot's records, please contact Braveras at acunamatata1997@gmail.com. Braveras will make every effort to accommodate your request within a reasonable timeframe.
+The bot is provided "as is" without warranty of any kind. Braveras is not responsible for any damages resulting from the use of the bot.
+
+These ToS may be updated from time to time. It is your responsibility to check for updates to the ToS.
+
+By using the bot, you confirm that you have read and agree to the ToS.
